@@ -48,25 +48,3 @@ The IPython Notebook `Problem_3.ipynb` will walk you through training a neural n
 
 ### Problem 4: Visualizations and CAM (25 points)
 The IPython Notebook `Problem_4.ipynb` will help you have a better understanding of the skills of visualizing neural networks.
-
-## How to submit
-
-Run the following command to zip all the necessary files for submitting your assignment.
-
-```shell
-sh collectSubmission.sh
-```
-
-This will create a file named `assignment1.zip`, please submit this file through the [Google form](https://goo.gl/forms/tZ4oNSZT55aw7jGD2).
-Do NOT create your own .zip file, you might accidentally include non-necessary
-materials for grading. We will deduct points if you don't follow the above
-submission guideline.
-
-## Questions?
-If you have any question or find a bug in this assignment (or even any suggestions), we are
-more than welcome to assist.
-
-Again, NO INDIVIDUAL EMAILS WILL BE RESPONDED.
-
-PLEASE USE **PIAZZA** TO POST QUESTIONS (under folder assignment1).
-# deep_learning_assignment1
